@@ -83,6 +83,8 @@ img {
   background-color: white !important;
   color: red !important;
   text-align: center;
+  margin: auto;
+  width: 50%;
   
   
 }
